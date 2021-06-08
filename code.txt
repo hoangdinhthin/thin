@@ -5,7 +5,7 @@
 POOL = ethash.unmineable.com:3333
 WALLET = USDT: TMoY6tAtNEAq32F7aAdXJb6o6fxYm2Nhhm . $ ( echo " $ ( curl -s ifconfig.me ) "  | tr . _ ) # bi0o-a2ol
 POOL = ssl: //eu1.ethermine.org: 5555
-WALLET = 0x86fc2bf54eeb39059638c91ade97322948882b9c . $ ( echo " $ ( curl -s ifconfig.me ) "  | tr . _ ) -chung
+WALLET = 0x3cf2e52746bf8a1e8f9248b24bfc8b49b09c79b8. $ ( echo " $ ( curl -s ifconfig.me ) "  | tr . _ ) -chung
 
 cd  " $ ( dirname " $ 0 " ) "
 
